@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="ampere_icon.svg"
+   viewBox="0 0 546.1333 546.1333"
+   height="546.1333"
+   width="546.1333"
+   id="svg10"
+   version="1.1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="436.43411"
+     inkscape:cy="284.17961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:136.265px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.28344"
+       x="388.39435"
+       y="537.10785"
+       id="text24-4"
+       transform="scale(1.2042924,0.83036312)"><tspan
+         sodipodi:role="line"
+         id="tspan22-6"
+         x="388.39435"
+         y="537.10785"
+         style="font-size:136.265px;stroke-width:3.28344">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:88.2309px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.12602"
+       x="490.60318"
+       y="162.83812"
+       id="text24-4-2"
+       transform="scale(0.98689773,1.0132762)"><tspan
+         sodipodi:role="line"
+         id="tspan22-6-8"
+         x="490.60318"
+         y="162.83812"
+         style="font-size:88.2309px;stroke-width:2.12602">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:85.7129px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06535"
+       x="22.750778"
+       y="287.43582"
+       id="text24"
+       transform="scale(0.9511822,1.0513233)"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="22.750778"
+         y="287.43582"
+         style="font-size:85.7129px;stroke-width:2.06535">+</tspan></text>
+    <ellipse
+       style="fill:#d40000;stroke:#c80000;stroke-width:0.99907;stroke-opacity:0"
+       id="path371"
+       cx="285"
+       cy="280"
+       rx="199.50047"
+       ry="199.50046" />
+    <circle
+       style="fill:#ffffff;stroke:#c80000;stroke-width:1.49078;stroke-opacity:0"
+       id="path375"
+       cx="286.5"
+       cy="280.5"
+       r="171.75461" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:280.57px;line-height:1.25;font-family:sans-serif;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.46129;"
+       x="177.36844"
+       y="439.85117"
+       id="text383"
+       transform="scale(1.2567185,0.79572315)"><tspan
+         sodipodi:role="line"
+         id="tspan381"
+         x="177.36844"
+         y="439.85117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280.57px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, ';stroke-width:1.46129;fill:#d40000;">A</tspan></text>
+  </g>
+</svg>
